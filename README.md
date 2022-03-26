@@ -1,3 +1,10 @@
 # sftp_manage
-manejar archivos con un sftp remoto.
-cargar las variables en el archivo .ini antes de usar el script.
+Manejar archivos con sftp
+
+## Descripcion
+Pequeño script con el cual podra de manera interactiva
+cargando las variables en el archivo de configuracion enviar
+y descargar archivos de un servidor SFTP
+
+## Contacto
+[LinkedIn - Benitez, Ricardo](www.linkedin.com/in/roseabdev)
